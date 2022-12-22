@@ -5,7 +5,7 @@
 # 使用方法
 ## 開始遊戲
 輸入"start"可以開啟以下訊息。
-![](https://imgur.com/ErsfZ5P.jpg)
+![](https://i.imgur.com/h6RdYdk.jpeg)
 ## 遊戲畫面
 ![](https://imgur.com/CkwOqbK.jpg)
 1. 輸入roll可以重骰骰子，例如"roll 23"可以重骰編號2、編號3的骰子，每位玩家一回合最多可重骰兩次
