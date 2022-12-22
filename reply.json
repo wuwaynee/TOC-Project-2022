@@ -1,0 +1,594 @@
+{
+  "type": "carousel",
+  "contents": [
+    {
+      "type": "bubble",
+      "size": "mega",
+      "header": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "text",
+            "text": "快艇骰子",
+            "align": "center",
+            "weight": "bold",
+            "size": "32px",
+            "color": "#46A3FF"
+          },
+          {
+            "type": "text",
+            "text": "回合 1 / 12",
+            "align": "center"
+          },
+          {
+            "type": "text",
+            "text": "輪到玩家XXX，還有2次",
+            "align": "center"
+          }
+        ],
+        "paddingTop": "20px",
+        "paddingBottom": "0px"
+      },
+      "body": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "separator"
+          },
+          {
+            "type": "box",
+            "layout": "horizontal",
+            "contents": [
+              {
+                "type": "separator"
+              },
+              {
+                "type": "text",
+                "text": "玩家名",
+                "align": "center"
+              },
+              {
+                "type": "separator"
+              },
+              {
+                "type": "text",
+                "text": "hello, world",
+                "align": "center",
+                "color": "#F08734"
+              },
+              {
+                "type": "separator"
+              },
+              {
+                "type": "text",
+                "text": "hello, world",
+                "align": "center"
+              },
+              {
+                "type": "separator"
+              }
+            ]
+          },
+          {
+            "type": "separator"
+          },
+          {
+            "type": "box",
+            "layout": "horizontal",
+            "contents": [
+              {
+                "type": "separator"
+              },
+              {
+                "type": "text",
+                "text": "獎勵小計",
+                "align": "center"
+              },
+              {
+                "type": "separator"
+              },
+              {
+                "type": "text",
+                "text": "0 / 63",
+                "align": "center"
+              },
+              {
+                "type": "separator"
+              },
+              {
+                "type": "text",
+                "text": "0 / 63",
+                "align": "center"
+              },
+              {
+                "type": "separator"
+              }
+            ]
+          },
+          {
+            "type": "separator"
+          },
+          {
+            "type": "box",
+            "layout": "horizontal",
+            "contents": [
+              {
+                "type": "separator"
+              },
+              {
+                "type": "text",
+                "text": "總分",
+                "align": "center"
+              },
+              {
+                "type": "separator"
+              },
+              {
+                "type": "text",
+                "text": "0",
+                "align": "center"
+              },
+              {
+                "type": "separator"
+              },
+              {
+                "type": "text",
+                "text": "0",
+                "align": "center"
+              },
+              {
+                "type": "separator"
+              }
+            ]
+          },
+          {
+            "type": "separator"
+          },
+          {
+            "type": "box",
+            "layout": "horizontal",
+            "contents": [
+              {
+                "type": "text",
+                "text": "1",
+                "align": "center"
+              },
+              {
+                "type": "text",
+                "text": "2",
+                "align": "center"
+              },
+              {
+                "type": "text",
+                "text": "3",
+                "align": "center"
+              },
+              {
+                "type": "text",
+                "text": "4",
+                "align": "center"
+              },
+              {
+                "type": "text",
+                "text": "5",
+                "align": "center"
+              }
+            ]
+          },
+          {
+            "type": "box",
+            "layout": "horizontal",
+            "contents": [
+              {
+                "type": "image",
+                "url": "https://imgur.com/ejrfqKH.png"
+              },
+              {
+                "type": "image",
+                "url": "https://imgur.com/ejrfqKH.png"
+              },
+              {
+                "type": "image",
+                "url": "https://imgur.com/ejrfqKH.png"
+              },
+              {
+                "type": "image",
+                "url": "https://imgur.com/ejrfqKH.png"
+              },
+              {
+                "type": "image",
+                "url": "https://imgur.com/ejrfqKH.png"
+              }
+            ]
+          }
+        ]
+      },
+      "footer": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "text",
+            "text": "請選擇要重骰的骰子 (roll 骰子編號)",
+            "offsetTop": "10px",
+            "align": "center"
+          },
+          {
+            "type": "text",
+            "text": "或是決定一種組合 (select 組合編號)",
+            "offsetTop": "10px",
+            "align": "center"
+          }
+        ],
+        "alignItems": "center",
+        "paddingTop": "0px",
+        "paddingBottom": "20px"
+      }
+    },
+    {
+      "type": "bubble",
+      "body": {
+        "type": "box",
+        "layout": "horizontal",
+        "contents": [
+          {
+            "type": "separator"
+          },
+          {
+            "type": "box",
+            "layout": "vertical",
+            "contents": [
+              {
+                "type": "separator"
+              },
+              {
+                "type": "text",
+                "text": "組合",
+                "align": "center"
+              },
+              {
+                "type": "separator"
+              },
+              {
+                "type": "text",
+                "text": " 1. 一點",
+                "align": "center"
+              },
+              {
+                "type": "separator"
+              },
+              {
+                "type": "text",
+                "text": " 2. 二點",
+                "align": "center"
+              },
+              {
+                "type": "separator"
+              },
+              {
+                "type": "text",
+                "text": " 3. 三點",
+                "align": "center"
+              },
+              {
+                "type": "separator"
+              },
+              {
+                "type": "text",
+                "text": " 4. 四點",
+                "align": "center"
+              },
+              {
+                "type": "separator"
+              },
+              {
+                "type": "text",
+                "text": " 5. 五點",
+                "align": "center"
+              },
+              {
+                "type": "separator"
+              },
+              {
+                "type": "text",
+                "text": " 6. 六點",
+                "align": "center"
+              },
+              {
+                "type": "separator"
+              },
+              {
+                "type": "text",
+                "text": " 7. 全選",
+                "align": "center"
+              },
+              {
+                "type": "separator"
+              },
+              {
+                "type": "text",
+                "text": " 8. 葫蘆",
+                "align": "center"
+              },
+              {
+                "type": "separator"
+              },
+              {
+                "type": "text",
+                "text": " 9. 四骰",
+                "align": "center"
+              },
+              {
+                "type": "separator"
+              },
+              {
+                "type": "text",
+                "text": "10. 小順",
+                "align": "center"
+              },
+              {
+                "type": "separator"
+              },
+              {
+                "type": "text",
+                "text": "11. 大順",
+                "align": "center"
+              },
+              {
+                "type": "separator"
+              },
+              {
+                "type": "text",
+                "text": "12. 快艇",
+                "align": "center"
+              },
+              {
+                "type": "separator"
+              }
+            ]
+          },
+          {
+            "type": "separator"
+          },
+          {
+            "type": "box",
+            "layout": "vertical",
+            "contents": [
+              {
+                "type": "separator"
+              },
+              {
+                "type": "text",
+                "align": "center",
+                "text": "玩家一",
+                "color": "#F08734"
+              },
+              {
+                "type": "separator"
+              },
+              {
+                "type": "text",
+                "text": "0",
+                "align": "center"
+              },
+              {
+                "type": "separator"
+              },
+              {
+                "type": "text",
+                "text": "0",
+                "align": "center"
+              },
+              {
+                "type": "separator"
+              },
+              {
+                "type": "text",
+                "text": "0",
+                "align": "center"
+              },
+              {
+                "type": "separator"
+              },
+              {
+                "type": "text",
+                "text": "0",
+                "align": "center"
+              },
+              {
+                "type": "separator"
+              },
+              {
+                "type": "text",
+                "text": "0",
+                "align": "center"
+              },
+              {
+                "type": "separator"
+              },
+              {
+                "type": "text",
+                "text": "0",
+                "align": "center"
+              },
+              {
+                "type": "separator"
+              },
+              {
+                "type": "text",
+                "text": "0",
+                "align": "center"
+              },
+              {
+                "type": "separator"
+              },
+              {
+                "type": "text",
+                "text": "0",
+                "align": "center"
+              },
+              {
+                "type": "separator"
+              },
+              {
+                "type": "text",
+                "text": "0",
+                "align": "center"
+              },
+              {
+                "type": "separator"
+              },
+              {
+                "type": "text",
+                "text": "0",
+                "align": "center"
+              },
+              {
+                "type": "separator"
+              },
+              {
+                "type": "text",
+                "text": "0",
+                "align": "center"
+              },
+              {
+                "type": "separator"
+              },
+              {
+                "type": "text",
+                "align": "center",
+                "text": "0"
+              },
+              {
+                "type": "separator"
+              }
+            ]
+          },
+          {
+            "type": "separator"
+          },
+          {
+            "type": "box",
+            "layout": "vertical",
+            "contents": [
+              {
+                "type": "separator"
+              },
+              {
+                "type": "text",
+                "align": "center",
+                "text": "玩家一",
+                "color": null
+              },
+              {
+                "type": "separator"
+              },
+              {
+                "type": "text",
+                "text": "0",
+                "align": "center"
+              },
+              {
+                "type": "separator"
+              },
+              {
+                "type": "text",
+                "text": "0",
+                "align": "center"
+              },
+              {
+                "type": "separator"
+              },
+              {
+                "type": "text",
+                "text": "0",
+                "align": "center"
+              },
+              {
+                "type": "separator"
+              },
+              {
+                "type": "text",
+                "text": "0",
+                "align": "center"
+              },
+              {
+                "type": "separator"
+              },
+              {
+                "type": "text",
+                "text": "0",
+                "align": "center"
+              },
+              {
+                "type": "separator"
+              },
+              {
+                "type": "text",
+                "text": "0",
+                "align": "center"
+              },
+              {
+                "type": "separator"
+              },
+              {
+                "type": "text",
+                "text": "0",
+                "align": "center"
+              },
+              {
+                "type": "separator"
+              },
+              {
+                "type": "text",
+                "text": "0",
+                "align": "center"
+              },
+              {
+                "type": "separator"
+              },
+              {
+                "type": "text",
+                "text": "0",
+                "align": "center"
+              },
+              {
+                "type": "separator"
+              },
+              {
+                "type": "text",
+                "text": "0",
+                "align": "center"
+              },
+              {
+                "type": "separator"
+              },
+              {
+                "type": "text",
+                "text": "0",
+                "align": "center"
+              },
+              {
+                "type": "separator"
+              },
+              {
+                "type": "text",
+                "align": "center",
+                "text": "0"
+              },
+              {
+                "type": "separator"
+              }
+            ]
+          },
+          {
+            "type": "separator"
+          }
+        ],
+        "paddingTop": "25px"
+      }
+    }
+  ]
+}

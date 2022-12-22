@@ -1,0 +1,54 @@
+{
+  "type": "bubble",
+  "header": {
+    "type": "box",
+    "layout": "vertical",
+    "contents": [
+      {
+        "type": "text",
+        "text": "快艇骰子",
+        "align": "center",
+        "size": "32px",
+        "weight": "bold",
+        "color": "#46A3FF"
+      }
+    ],
+    "paddingBottom": "0px"
+  },
+  "body": {
+    "type": "box",
+    "layout": "vertical",
+    "contents": [
+      {
+        "type": "text",
+        "text": "說明:  輸入\"start\"可以開始遊戲",
+        "align": "start"
+      },
+      {
+        "type": "text",
+        "text": "要參加的玩家請先加入此Bot好友",
+        "align": "start"
+      },
+      {
+        "type": "text",
+        "text": "然後按下\"加入\"",
+        "align": "start"
+      }
+    ]
+  },
+  "footer": {
+    "type": "box",
+    "layout": "vertical",
+    "contents": [
+      {
+        "type": "button",
+        "action": {
+          "type": "message",
+          "label": "加入",
+          "text": "+"
+        },
+        "style": "primary"
+      }
+    ]
+  }
+}
