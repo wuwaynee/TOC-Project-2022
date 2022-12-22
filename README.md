@@ -1,5 +1,5 @@
 # Yahtzee Linebot
-![]([https://imgur.com/bFftLvk.jpg](https://i.imgur.com/rgOkRjx.jpeg))
+![](https://imgur.com/bFftLvk.jpg)
 # 遊戲介紹
 讓各位在Line上跟朋友一起玩Yahtzee(快艇骰子)
 # 使用方法
