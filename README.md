@@ -1,8 +1,7 @@
 # Yahtzee Linebot
 ![](https://i.imgur.com/rgOkRjx.jpeg)
 # 遊戲介紹
-讓各位在Line上跟朋友一起玩Yahtzee(快艇骰子)
-規則可參考維基百科：https://zh.wikipedia.org/wiki/%E5%BF%AB%E8%89%87%E9%AA%B0%E5%AD%90
+讓各位在Line上跟朋友一起玩Yahtzee(快艇骰子)，遊戲規則可參考維基百科：https://zh.wikipedia.org/wiki/%E5%BF%AB%E8%89%87%E9%AA%B0%E5%AD%90
 # 使用方法
 ## 開始遊戲
 輸入"start"可以開啟以下訊息。
